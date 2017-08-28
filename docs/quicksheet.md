@@ -17,25 +17,60 @@
     * Swipe now costs 40 energy (down from 45).
 
 ## TLDR;
-###New top build for single-target:
-* Bloodscent
-* Incarnation
-* Savage Roar
-* Bloodtalons
+###Talents
+**New top build for single-target:**
 
-###New top build for cleave:
-* Bloodscent
-* Incarnation / Jagged Wounds
-* Brutal Slash
-* Bloodtalons
+* [Bloodscent](http://wowdb.com/spells/202022-blood-scent)
+* [Incarnation](http://www.wowdb.com/spells/102543-incarnation-king-of-the-jungle)
+* [Savage Roar](http://www.wowdb.com/spells/52610-savage-roar)
+* [Bloodtalons](http://www.wowdb.com/spells/155672-bloodtalons)
 
-###New top build for AoE:
-* Predator
-* Incarnation
-* Brutal Slash
-* Bloodtalons
+**New top build for cleave:**
+
+* [Bloodscent](http://wowdb.com/spells/202022-blood-scent)
+* [Incarnation](http://www.wowdb.com/spells/102543-incarnation-king-of-the-jungle) / [Jagged Wounds](http://www.wowdb.com/spells/202032-jagged-wounds)
+* [Brutal Slash](http://www.wowdb.com/spells/202028-brutal-slash)
+* [Bloodtalons](http://www.wowdb.com/spells/155672-bloodtalons)
+
+**New top build for AoE:**
+
+* [Predator](http://www.wowdb.com/spells/202021-predator)
+* [Incarnation](http://www.wowdb.com/spells/102543-incarnation-king-of-the-jungle)
+* [Brutal Slash](http://www.wowdb.com/spells/202028-brutal-slash)
+* [Bloodtalons](http://www.wowdb.com/spells/155672-bloodtalons)
 
 ###Relics (and Netherlight Crucible "Powers"):
 Guideline values for various builds can be found [here](https://goo.gl/2DUi6w) in Guiltyas' relic calculator.
+
+###Items:
+Tier 19 2pc: Changed to 15% thrash damage.
+Tier 19 4pc: Reduced to 8% per bleed.
+
+Not much to say about this, 2pc still ok on AoE but will eventually fall out of use from item level.
+
+**Convergence of fates:** is better with Incarnation builds, so you should probably resim it vs your current trinkets if you still hold on to one.
+
+### Trinkets:
+WIP.
+
+###Rotation:
+**Pooling:** is still a dps gain as it allows you to handle different situations better, but much less important to maintain uptimes. If you have a good grasp on pooling already, you can keep doing what you are doing - but don't stress out about it.
+
+**Thrash on ST** is back, if you are using Luffa you want to maintain Thrash using CC procs just like back with T19. If you don't have Luffa, don't bother. 
+
+**Clipping** is still around, clip any Rake less than 7 seconds remaining for a stronger one. Clip any Rip less than 80% of duration for a stronger one. Clip Thrash on AoE just as before.
+
+**Pandemics**
+
+Thrash: 5s without JW, 3.6 with JW.
+
+Rip: 7.2 (With T20-4pc: 8.4) without JW. 5.76s with JW (With T20-4pc: 6.72)
+
+Rake: 5s without JW, 3.6 with JW.v 
+
+## Longer story:
+
+
+
 
 
