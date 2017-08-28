@@ -1,17 +1,7 @@
 # Xanzaras Feral Corner
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Welcome to the new version of this website. I'm sorry about it being a bit WIP, will try to develop it futher. The reason for this change is to make it faster and easier for me to maintain and update the content.
 
-## Commands
+The guide is being moved over to [here](/guide/), and is currently in the process of being copied over.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+If you are looking for a summary of 7.3 changes, you should instead go to the [quicksheet](/quicksheet/).

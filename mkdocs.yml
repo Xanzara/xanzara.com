@@ -1,2 +1,3 @@
 site_name: Xanzaras Feral Corner
 theme: alabaster
+extra_javascript: [//static-azeroth.cursecdn.com/current/js/syndication/tt.js]
