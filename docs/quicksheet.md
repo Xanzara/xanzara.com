@@ -48,7 +48,7 @@ Tier 19 4pc: Reduced to 8% per bleed.
 
 Not much to say about this, 2pc still ok on AoE but will eventually fall out of use from item level.
 
-**Convergence of fates:** is better with [Incarnation](http://www.wowdb.com/spells/102543-incarnation-king-of-the-jungle) builds, so you should probably resim it vs your current trinkets if you still hold on to one. Keep in mind that the value is heavily dependant on fight length, if you don't get an extra use it is near useless - if you are simming, the default fight length is often 
+**Convergence of fates:** is better with [Incarnation](http://www.wowdb.com/spells/102543-incarnation-king-of-the-jungle) builds, so you should probably resim it vs your current trinkets if you still hold on to one. Keep in mind that the value is heavily dependant on fight length, if you don't get an extra use it is near useless - if you are simming, the default fight length is often 5 minutes.
 
 ### Trinkets:
 Bloodmallet has compiled trinkets for a lot of classes. You can find his site [here](https://bloodmallet.github.io/index.html)
