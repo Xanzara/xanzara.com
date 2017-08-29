@@ -72,7 +72,7 @@ Rake: 4.5s without JW, 3.6 with JW.
 
 ###Alternative builds:
 
-[Brutal Slash](http://www.wowdb.com/spells/202028-brutal-slash) is only a 3% dps loss versus Savage Roar, using it single-target is still a dps loss in all situations (any combination of stats, relics, legendaries so far suggested does not affect this) - but small enough that some people suggest using it fo single-target. I leave that decision to you.
+[Brutal Slash](http://www.wowdb.com/spells/202028-brutal-slash) is only a 3% dps loss versus Savage Roar, using it single-target is still a dps loss in all situations (any combination of stats, relics, legendaries so far suggested does not affect this) - but small enough that some people suggest using it for single-target. I leave that decision to you.
 
 When using [Brutal Slash](http://www.wowdb.com/spells/202028-brutal-slash) single-target, you do want to weave it into Tiger's Fury windows. Is it worth to BT them? Yeah, but not at the expense of non-shreds. If you have Ailuros for example you definitely want to pool them so that you can burn them and BrS inside your TF window. If you have to use a BrS charge outside of TF (which shouldn't happen on Single-Target), feel free to BT it however. Additionally, despite the damage increase from Moment of Clarity - you do not want to spend Clearcasting procs with BrS on single-target either as you waste a lot of energy regen.
 
