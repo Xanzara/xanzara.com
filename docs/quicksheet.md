@@ -76,7 +76,7 @@ Rake: 4.5s without JW, 3.6 with JW.
 
 When using [Brutal Slash](http://www.wowdb.com/spells/202028-brutal-slash) single-target, you do want to weave it into Tiger's Fury windows. Is it worth to BT them? Yeah, but not at the expense of non-shreds. If you have Ailuros for example you definitely want to pool them so that you can burn them and BrS inside your TF window. If you have to use a BrS charge outside of TF (which shouldn't happen on Single-Target), feel free to BT it however. Additionally, despite the damage increase from Moment of Clarity - you do not want to spend Clearcasting procs with BrS on single-target either as you waste a lot of energy regen.
 
-Lunar Inspiration is still fine for cleave (it's also slightly closer on ST, but is still noticably behind) if you are not using Wildshaper's Clutch but is not a big dps gain over blood scent so do not feel any preasure to use it if you don't like it.
+Lunar Inspiration is still fine for cleave (it's also slightly closer on ST, but is still noticably behind) if you are not using Wildshaper's Clutch but is not a big dps gain over blood scent so do not feel any pressure to use it if you don't like it.
 
 [Predator](http://www.wowdb.com/spells/202021-predator) is still good if you get reliable procs, nothing has changed here.
 
@@ -86,7 +86,7 @@ Sabertooth is technically viable-ish but never ahead of SR on ST, or BrS on mult
 
 Soul of the Forest (when not from the ring) is alright, but never better than the other two talents. Most people would probably get this from the Soul of the Archdruid legendary anyway but is not recommended.
 
-Jagged Wounds](http://www.wowdb.com/spells/202032-jagged-wounds) is still alright, but is mostly behind [Incarnation](http://www.wowdb.com/spells/102543-incarnation-king-of-the-jungle). It's pretty close in some cleave situations (you can sim this yourself) but will never really yield you a major increase over [Incarnation](http://www.wowdb.com/spells/102543-incarnation-king-of-the-jungle), it is however worth noting that this build scales noticably better - so it is plausible that it will improve over time as gear improves. You only lose a few percentage points dps so it's technically possible to play the old meta build should you desire it.
+[Jagged Wounds](http://www.wowdb.com/spells/202032-jagged-wounds) is still alright, but is mostly behind [Incarnation](http://www.wowdb.com/spells/102543-incarnation-king-of-the-jungle). It's pretty close in some cleave situations (you can sim this yourself) but will never really yield you a major increase over [Incarnation](http://www.wowdb.com/spells/102543-incarnation-king-of-the-jungle), it is however worth noting that this build scales noticably better - so it is plausible that it will improve over time as gear improves. You only lose a few percentage points dps so it's technically possible to play the old meta build should you desire it.
 
 Elunes Guidance is still a dead talent in all situations.
 
@@ -102,6 +102,6 @@ Behemoth Headdress is still the second best legendary for single-target in most 
 
 Wildshaper is slightly (but not much) better on patchwerk than it used to be, it is still behind Behemoth and still worse on AoE than Luffas. If you whoever end up on a fairly static cleave fight and can spare the Tier slot - it's a good choice.
 
-Luffa Wrappings is still the AoE king legendary, usually copuled either with Chatoyant & [Predator](http://www.wowdb.com/spells/202021-predator) (For AoE focus), or Soul of the Archdruid (for ST focus with cleave secondary).
+Luffa Wrappings is still the AoE king legendary, usually coupled either with Chatoyant & [Predator](http://www.wowdb.com/spells/202021-predator) (For AoE focus), or Soul of the Archdruid (for ST focus with cleave secondary).
 
 Other legendaries are alright, and the bigger stat ones (Fiery Red Maimers and Ekowraith in particular) as well as Cinidaria are decent substitutes if you lack something else.
