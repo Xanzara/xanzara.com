@@ -21,7 +21,7 @@ To get more specificly accurate answers to any gearing question, simulations are
 * Armour (Chest, Head, Back, Shoulder, Legs, Hands, Waist, Wrist): Outside of tier, follow item level. When picking between two items of the similiar item level (+-5 or -5 but with a socket or similiar). 
     Prioritize versatility/crit > versatility / x > crit / x > other combinations
 * Jewellery (Rings, Neck): Item level is significantly less important, use the highest ilevel featuring versatility or crit (or ideally both) as the big stat.
-* Trinkets: Unfortunately, for trinkets item level is a near useless indication of power. Use an aggregating site such as [https://bloodmallet.github.io/](https://bloodmallet.github.io/) or [https://herodamage.com](https://herodamage.com) to get a general idea and simulate for futher accuracy.
+* Trinkets: Unfortunately, for trinkets item level is a near useless indication of power. Use an aggregating site such as [https://bloodmallet.github.io/](https://bloodmallet.github.io/) or [https://herodamage.com](https://herodamage.com) to get a general idea and simulate for further accuracy.
 ---
 
 ###**Relics:**
