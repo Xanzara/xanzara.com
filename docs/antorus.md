@@ -14,7 +14,7 @@ As your gear get to around heroic anotrus level (or beyond), secondary stats wil
 To get more specificly accurate answers to any gearing question, simulations are the by far best way, (https://raidbots.com) makes it very simple to simply try two (or more) gear pieces.
 
 ---
-Gearing gearing rule of thumbs:
+####Gearing rule of thumbs:
 
 * Specific legendaries take priority almost all the time. (See legendary section for this)
 * Tier is almost always more important than stat concerns/ilvl, especially true if you only need to "downrank" a single item for a bonus.
