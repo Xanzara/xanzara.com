@@ -11,7 +11,7 @@ Because of how stats work as multipliers to eachother, this means that secondary
 
 As your gear get to around heroic anotrus level (or beyond), secondary stats will all increase in value past agility, this doesn't change the general recommendation to follow item level.
 
-To get more specificly accurate answers to any gearing question, simulations are the by far best way, (https://raidbots.com) makes it very simple to simply try two (or more) gear pieces.
+To get more specificly accurate answers to any gearing question, simulations are the by far best way, [Raidbots](https://raidbots.com) makes it very simple to simply try two (or more) gear pieces.
 
 ---
 ####Gearing rule of thumbs:
@@ -21,7 +21,7 @@ To get more specificly accurate answers to any gearing question, simulations are
 * Armour (Chest, Head, Back, Shoulder, Legs, Hands, Waist, Wrist): Outside of tier, follow item level. When picking between two items of the similiar item level (+-5 or -5 but with a socket or similiar). 
     Prioritize versatility/crit > versatility / x > crit / x > other combinations
 * Jewellery (Rings, Neck): Item level is significantly less important, use the highest ilevel featuring versatility or crit (or ideally both) as the big stat.
-* Trinkets: Unfortunately, for trinkets item level is a near useless indication of power. Use an aggregating site such as (https://bloodmallet.github.io/) or (https://herodamage.com) to get a general idea and simulate for futher accuracy.
+* Trinkets: Unfortunately, for trinkets item level is a near useless indication of power. Use an aggregating site such as [https://bloodmallet.github.io/](https://bloodmallet.github.io/) or [https://herodamage.com](https://herodamage.com) to get a general idea and simulate for futher accuracy.
 ---
 
 ###**Relics:**
