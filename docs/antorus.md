@@ -104,5 +104,9 @@ Jagged Wounds do get better with T21, but not enough better to overcome Incarnat
 ###** Rotation **
 Nothing has really change with the rotation, but there is a few things to keep in mind while using T21 4pc. Due to a bug, for special effects (like Predatory Swiftness proc chance and Behemoth Headress extension) it will count the current combo points you have instead of counting as 5 (which is how the damage counts). Therefore you will want to use Ferocious Bite at 4 (with BT) or 5 CP to get maximum benefit from this.
 
+###** Convergence of Fates Timings**
+![CoFTimings](../img/coftimings.png)
+As you can see from above, the point were CoF is _really strong_ is around certain timings, but if you are uncertain where you will land skipping it usually results in better numbers.
+
 ###** Boss Guides **
 _Will be filled in later this week after I heroic has been cleared_
